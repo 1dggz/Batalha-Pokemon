@@ -1,6 +1,10 @@
 ## 🎮 Definição do Projeto
 
-Criar um jogo de batalha em Python, executado no terminal (sem interface gráfica), baseado em dados de pokémons armazenados em um arquivo CSV.
+Criar um jogo de batalha em Python, executado no terminal (sem interface gráfica), focado em lógica de Programação Orientada a Objetos (POO) e manipulação de dados com Pandas.
+
+## 📝 Sobre o Projeto
+
+O objetivo deste projeto é criar um motor de batalha que consome dados de um arquivo CSV e gerencia turnos, cálculos de dano e estados de vitória/derrota entre um jogador humano e uma IA aleatória.
 
 ## 📁 Fonte de Dados (CSV)
 
